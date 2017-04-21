@@ -1,0 +1,6 @@
+analyseLocally=true
+eclipse.preferences.version=1
+extraProperties=sonar.host.url\=http\://localhost\:9000\r\nsonar.jdbc.username\=sonar\r\nsonar.jdbc.url\=jdbc\:mysql\://localhost\:3309/sonar?useUnicode\=true&characterEncoding\=utf8\r\nsonar.jdbc.password\=sonar
+projectKey=com.archsystemsinc.ipms\:ipms-web
+serverUrl=http\://localhost\:9000
+version=2
