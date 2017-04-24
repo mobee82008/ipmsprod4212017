@@ -113,7 +113,7 @@ public class HomeController {
 			e.printStackTrace();
 		}
 		return "groupdashboard";
-	}
+	}	
 	
 //	@RequestMapping(value = "/groupdashboard/business", method = RequestMethod.GET)
 //	public String groupDashboardBsg(final Model model, final Principal principal) {
