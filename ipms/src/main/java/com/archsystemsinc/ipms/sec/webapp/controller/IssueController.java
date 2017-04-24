@@ -101,6 +101,7 @@ public class IssueController extends AbstractController<Issue> {
 				dateFormat, true));
 	}
 
+	
 	/**
 	 * Downloads the report as an Excel format.
 	 * <p>
